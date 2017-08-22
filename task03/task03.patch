@@ -1,0 +1,11 @@
+--- linux-4.13-rc6/Makefile	2017-08-21 02:13:52.000000000 +0500
++++ linux-4.13-rc6-ayyaz/Makefile	2017-08-22 11:56:16.917289958 +0500
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 13
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc6
++EXTRAVERSION = -rc6-ayyaz
+ NAME = Fearless Coyote
+ 
+ # *DOCUMENTATION*
